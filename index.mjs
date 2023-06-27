@@ -23,5 +23,4 @@ export const handler = async(event) => {
     }
     log('Object size OK');
     return 'Object size OK';
-    });
 };
